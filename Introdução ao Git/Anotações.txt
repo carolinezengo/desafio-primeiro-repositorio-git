@@ -1,0 +1,2 @@
+Link do JavaScript
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals
